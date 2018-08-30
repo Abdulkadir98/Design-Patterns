@@ -8,4 +8,9 @@ public class CeilingFanOnCommand implements Command {
     public void execute() {
         ceilingFan.on();
     }
+
+    @Override
+    public void undo() {
+        ceilingFan.off();
+    }
 }
