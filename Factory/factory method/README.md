@@ -5,4 +5,4 @@ __defer__ instantiation to subclasses.
 
 ## Class Diagram
 
-![Class diagram](../images/factory-method.png)
+![Class diagram](../../images/factory-method.png)
